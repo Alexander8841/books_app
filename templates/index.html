@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Books App</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .star {
+            color: gold;
+            font-size: 1rem;
+        }
+    </style>
+</head>
+<body class="bg-light">
+<div class="container py-5">
+    <h1 class="mb-4 text-center">📚 Books Library</h1>
+
+    <!-- Форма поиска и сортировки -->
+    <div class="row mb-4">
+        <div class="col-md-6 mb-2">
+            <input id="search" type="text" class="form-control" placeholder="Поиск по названию или автору">
+        </div>
+        <div class="col-md-6 mb-2 d-flex gap-2">
+            <select id="sort" class="form-select">
+                <option value="">Сортировать...</option>
+                <option value="title">По названию (А-Я)</option>
+                <option value="rating">По рейтингу (высокий → низкий)</option>
+            </select>
+            <button id="reset" class="btn btn-secondary">Сбросить</button>
+        </div>
+    </div>
+
+    <div class="row row-cols-1 row-cols-md-2 g-4" id="books-list">
+        {% for book in books %}
+        <div class="col book-item" data-title="{{ book.title|lower }}" data-author="{{ book.author|lower }}" data-rating="{{ book.average_rating or 0 }}">
+            <div class="card h-100 shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">{{ book.title }}</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">{{ book.author }}</h6>
+                    <p>
+                        Рейтинг:
+                        {% if book.average_rating %}
+                            {% for i in range(book.average_rating|int) %}
+                                <span class="star">★</span>
+                            {% endfor %}
+                            {% for i in range(5 - book.average_rating|int) %}
+                                <span class="star text-muted">☆</span>
+                            {% endfor %}
+                            <strong>{{ book.average_rating }}</strong>
+                        {% else %}
+                            Нет оценок
+                        {% endif %}
+                    </p>
+                    <a href="{{ url_for('book_detail', book_id=book.id) }}" class="btn btn-primary">Отзывы</a>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+<script>
+const searchInput = document.getElementById("search");
+const sortSelect = document.getElementById("sort");
+const resetBtn = document.getElementById("reset");
+const booksList = document.getElementById("books-list");
+const books = Array.from(booksList.children);
+
+// Функция фильтрации
+function filterBooks() {
+    const query = searchInput.value.toLowerCase();
+    books.forEach(book => {
+        const title = book.dataset.title;
+        const author = book.dataset.author;
+        book.style.display = (title.includes(query) || author.includes(query)) ? "" : "none";
+    });
+}
+
+// Функция сортировки
+function sortBooks() {
+    const value = sortSelect.value;
+    let sorted = [...books];
+    if (value === "title") {
+        sorted.sort((a, b) => a.dataset.title.localeCompare(b.dataset.title));
+    } else if (value === "rating") {
+        sorted.sort((a, b) => parseFloat(b.dataset.rating) - parseFloat(a.dataset.rating));
+    }
+    sorted.forEach(book => booksList.appendChild(book));
+}
+
+searchInput.addEventListener("input", filterBooks);
+sortSelect.addEventListener("change", sortBooks);
+resetBtn.addEventListener("click", () => {
+    searchInput.value = "";
+    sortSelect.value = "";
+    books.forEach(book => book.style.display = "");
+    sortBooks();
+});
+</script>
+
+</body>
+</html>
