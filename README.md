@@ -154,5 +154,5 @@
 ### ✅ Проверка работы
 
 * Веб-интерфейс: `http://<ваш_IP_адрес>:5000`
-* Telegram-бот: [@best_books_of_all_times_bot](https://t.me/best_books_of_all_times_bot)
+* Telegram-бот: @<username бота>
 
