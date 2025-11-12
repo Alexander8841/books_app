@@ -36,16 +36,20 @@
    DB_PASSWORD=<your_mysql_password>
    DB_NAME=<your_mysql_database>
    SSL=<path_to_ssl_certificate>
-   TELEGRAM_TOKEN=<your_telegram_bot_token>
+   BOT_TOKEN=<your_telegram_bot_token>
    ```
+   Как получить токен бота:
+   - В Telegram открыть @BotFather
+   - Ввести команду /newbot и следовать инструкциям.
+   - После создания бот выдаст токен.
 
-5. Запустить веб-приложение:
+6. Запустить веб-приложение:
 
    ```bash
    flask run --host=0.0.0.0 --port=5000
    ```
 
-6. Запустить Telegram-бота:
+7. Запустить Telegram-бота:
 
    ```bash
    python3 bot.py
