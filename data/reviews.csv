@@ -1,0 +1,387 @@
+id,book_id,rating,review_text,created_at
+1,1,3,The characters felt real and relatable.,2025-08-21 09:29:23
+2,1,3,Emotionally powerful and beautifully structured.,2025-03-05 09:29:23
+3,1,4,The plot twists were amazing! I didn’t see them coming.,2025-05-04 09:29:23
+4,1,4,Beautifully written with deep emotional impact.,2023-11-10 09:29:23
+5,1,1,Emotionally powerful and beautifully structured.,2025-07-07 09:29:23
+6,2,3,A classic everyone should read at least once in their life.,2024-10-13 09:29:23
+7,2,1,"A bit slow at the beginning, but it builds into something incredible.",2023-07-26 09:29:23
+8,2,1,Emotionally powerful and beautifully structured.,2025-08-09 09:29:23
+9,2,2,An unforgettable journey through human emotions and moral choices.,2023-09-25 09:29:23
+10,2,5,A classic everyone should read at least once in their life.,2023-05-16 09:29:23
+11,2,5,The plot twists were amazing! I didn’t see them coming.,2024-06-09 09:29:23
+12,2,5,A must-read for fans of good storytelling.,2024-11-27 09:29:23
+13,3,5,The plot twists were amazing! I didn’t see them coming.,2024-11-21 09:29:23
+14,3,2,Emotionally powerful and beautifully structured.,2025-06-20 09:29:23
+15,3,4,Beautifully written with deep emotional impact.,2023-07-28 09:29:23
+16,3,2,Emotionally powerful and beautifully structured.,2025-02-11 09:29:23
+17,3,1,Beautifully written with deep emotional impact.,2025-01-04 09:29:23
+18,3,4,The characters felt real and relatable.,2025-03-16 09:29:23
+19,3,1,"A bit slow at the beginning, but it builds into something incredible.",2023-06-04 09:29:23
+20,3,5,"Some parts dragged a bit, but overall, it’s worth it.",2023-10-09 09:29:23
+21,3,1,"Overrated in my opinion, but still a decent read.",2025-01-28 09:29:23
+22,3,1,The characters felt real and relatable.,2023-07-17 09:29:23
+23,3,5,This book changed the way I see the world.,2025-05-08 09:29:23
+24,4,5,Emotionally powerful and beautifully structured.,2025-02-11 09:29:23
+25,4,2,A must-read for fans of good storytelling.,2023-09-08 09:29:23
+26,4,3,A must-read for fans of good storytelling.,2024-03-29 09:29:23
+27,4,5,"Dark, intense, and thought-provoking. Brilliant work.",2025-06-10 09:29:23
+28,4,4,The plot twists were amazing! I didn’t see them coming.,2024-11-08 09:29:23
+29,5,3,An unforgettable journey through human emotions and moral choices.,2024-08-22 09:29:23
+30,5,1,An unforgettable journey through human emotions and moral choices.,2025-06-21 09:29:23
+31,5,1,An absolute masterpiece! The writing and storytelling are phenomenal.,2024-11-25 09:29:23
+32,5,3,The plot twists were amazing! I didn’t see them coming.,2024-03-31 09:29:23
+33,5,1,An absolute masterpiece! The writing and storytelling are phenomenal.,2025-09-18 09:29:23
+34,6,3,An absolute masterpiece! The writing and storytelling are phenomenal.,2024-02-18 09:29:23
+35,6,4,"Dark, intense, and thought-provoking. Brilliant work.",2025-02-10 09:29:23
+36,6,5,I couldn't put this book down. Every chapter kept me hooked.,2024-11-15 09:29:23
+37,6,3,"Not my cup of tea, but I can see why others enjoy it.",2025-05-26 09:29:23
+38,6,1,A classic everyone should read at least once in their life.,2024-06-30 09:29:23
+39,6,3,"Not my cup of tea, but I can see why others enjoy it.",2025-08-22 09:29:23
+40,6,2,"A bit slow at the beginning, but it builds into something incredible.",2024-11-11 09:29:23
+41,6,2,I couldn't put this book down. Every chapter kept me hooked.,2024-01-16 09:29:23
+42,7,2,This book changed the way I see the world.,2024-07-01 09:29:23
+43,7,3,Beautifully written with deep emotional impact.,2023-07-26 09:29:23
+44,7,3,The plot twists were amazing! I didn’t see them coming.,2024-11-23 09:29:23
+45,7,4,A classic everyone should read at least once in their life.,2023-09-21 09:29:23
+46,7,2,Emotionally powerful and beautifully structured.,2025-07-20 09:29:23
+47,7,2,A must-read for fans of good storytelling.,2025-02-23 09:29:23
+48,7,3,"Overrated in my opinion, but still a decent read.",2023-08-16 09:29:23
+49,7,3,The characters felt real and relatable.,2024-04-01 09:29:23
+50,7,2,A must-read for fans of good storytelling.,2024-05-20 09:29:23
+51,7,4,I couldn't put this book down. Every chapter kept me hooked.,2023-09-02 09:29:23
+52,8,1,This book changed the way I see the world.,2025-05-19 09:29:23
+53,8,5,"A bit slow at the beginning, but it builds into something incredible.",2024-01-19 09:29:23
+54,8,3,"Dark, intense, and thought-provoking. Brilliant work.",2025-03-29 09:29:23
+55,8,4,"Not my cup of tea, but I can see why others enjoy it.",2024-10-04 09:29:23
+56,8,2,This book changed the way I see the world.,2024-10-05 09:29:23
+57,8,5,An absolute masterpiece! The writing and storytelling are phenomenal.,2025-06-24 09:29:23
+58,8,1,"Some parts dragged a bit, but overall, it’s worth it.",2025-06-29 09:29:23
+59,8,3,"Dark, intense, and thought-provoking. Brilliant work.",2025-05-08 09:29:23
+60,9,4,"Some parts dragged a bit, but overall, it’s worth it.",2023-08-22 09:29:23
+61,9,5,"Dark, intense, and thought-provoking. Brilliant work.",2024-06-12 09:29:23
+62,9,2,The characters felt real and relatable.,2024-06-24 09:29:23
+63,9,4,A must-read for fans of good storytelling.,2025-10-22 09:29:23
+64,9,5,Emotionally powerful and beautifully structured.,2024-03-06 09:29:23
+65,9,3,I couldn't put this book down. Every chapter kept me hooked.,2023-06-16 09:29:23
+66,9,3,"Not my cup of tea, but I can see why others enjoy it.",2023-06-08 09:29:23
+67,10,1,"Some parts dragged a bit, but overall, it’s worth it.",2023-12-08 09:29:23
+68,10,3,An unforgettable journey through human emotions and moral choices.,2024-06-20 09:29:23
+69,10,2,"Overrated in my opinion, but still a decent read.",2023-12-26 09:29:23
+70,10,3,A must-read for fans of good storytelling.,2023-11-30 09:29:23
+71,10,5,A must-read for fans of good storytelling.,2023-06-06 09:29:23
+72,10,5,"Some parts dragged a bit, but overall, it’s worth it.",2025-08-06 09:29:23
+73,10,4,The characters felt real and relatable.,2025-07-20 09:29:23
+74,10,1,Emotionally powerful and beautifully structured.,2025-06-17 09:29:23
+75,10,4,This book changed the way I see the world.,2025-01-24 09:29:23
+76,10,5,"Dark, intense, and thought-provoking. Brilliant work.",2023-10-12 09:29:23
+77,11,5,"Overrated in my opinion, but still a decent read.",2025-01-13 09:29:23
+78,11,3,The characters felt real and relatable.,2024-07-01 09:29:23
+79,11,3,"Dark, intense, and thought-provoking. Brilliant work.",2025-07-01 09:29:23
+80,11,3,This book changed the way I see the world.,2024-11-13 09:29:23
+81,11,5,"Dark, intense, and thought-provoking. Brilliant work.",2024-07-17 09:29:23
+82,11,2,"Dark, intense, and thought-provoking. Brilliant work.",2023-10-31 09:29:23
+83,11,3,"Not my cup of tea, but I can see why others enjoy it.",2023-10-16 09:29:23
+84,12,4,A must-read for fans of good storytelling.,2024-08-20 09:29:23
+85,12,2,An unforgettable journey through human emotions and moral choices.,2024-01-29 09:29:23
+86,12,4,The plot twists were amazing! I didn’t see them coming.,2025-08-06 09:29:23
+87,12,5,Emotionally powerful and beautifully structured.,2023-10-03 09:29:23
+88,12,1,A must-read for fans of good storytelling.,2025-10-09 09:29:23
+89,12,2,"Dark, intense, and thought-provoking. Brilliant work.",2024-09-19 09:29:23
+90,12,5,"Overrated in my opinion, but still a decent read.",2025-03-28 09:29:23
+91,12,4,This book changed the way I see the world.,2025-07-02 09:29:23
+92,12,1,Beautifully written with deep emotional impact.,2024-08-31 09:29:23
+93,13,5,Beautifully written with deep emotional impact.,2025-03-21 09:29:23
+94,13,3,An absolute masterpiece! The writing and storytelling are phenomenal.,2024-03-25 09:29:23
+95,13,3,A classic everyone should read at least once in their life.,2025-05-23 09:29:23
+96,13,1,The plot twists were amazing! I didn’t see them coming.,2024-11-09 09:29:23
+97,13,4,A classic everyone should read at least once in their life.,2025-04-01 09:29:23
+98,13,2,Beautifully written with deep emotional impact.,2023-12-24 09:29:23
+99,13,2,"A bit slow at the beginning, but it builds into something incredible.",2024-02-13 09:29:23
+100,13,1,Beautifully written with deep emotional impact.,2025-01-26 09:29:23
+101,13,5,"A bit slow at the beginning, but it builds into something incredible.",2024-09-13 09:29:23
+102,13,4,"Overrated in my opinion, but still a decent read.",2024-03-20 09:29:23
+103,14,1,A classic everyone should read at least once in their life.,2023-07-27 09:29:23
+104,14,4,A classic everyone should read at least once in their life.,2025-04-08 09:29:23
+105,14,2,I couldn't put this book down. Every chapter kept me hooked.,2024-12-29 09:29:23
+106,14,3,The characters felt real and relatable.,2025-06-12 09:29:23
+107,14,2,"Overrated in my opinion, but still a decent read.",2025-06-24 09:29:23
+108,15,1,"Overrated in my opinion, but still a decent read.",2023-07-10 09:29:23
+109,15,4,This book changed the way I see the world.,2024-07-03 09:29:23
+110,15,5,This book changed the way I see the world.,2024-08-11 09:29:23
+111,15,1,"Not my cup of tea, but I can see why others enjoy it.",2024-01-17 09:29:23
+112,15,1,Beautifully written with deep emotional impact.,2024-12-22 09:29:23
+113,15,1,A must-read for fans of good storytelling.,2023-10-30 09:29:23
+114,15,2,"Some parts dragged a bit, but overall, it’s worth it.",2024-06-05 09:29:23
+115,15,1,An unforgettable journey through human emotions and moral choices.,2025-04-03 09:29:23
+116,15,2,A must-read for fans of good storytelling.,2025-01-06 09:29:23
+117,15,1,"Dark, intense, and thought-provoking. Brilliant work.",2025-06-02 09:29:23
+118,15,2,The plot twists were amazing! I didn’t see them coming.,2024-10-27 09:29:23
+119,16,1,The plot twists were amazing! I didn’t see them coming.,2024-04-03 09:29:23
+120,16,2,"Some parts dragged a bit, but overall, it’s worth it.",2025-04-17 09:29:23
+121,16,5,"A bit slow at the beginning, but it builds into something incredible.",2023-10-04 09:29:23
+122,16,3,"Overrated in my opinion, but still a decent read.",2025-09-20 09:29:23
+123,16,5,This book changed the way I see the world.,2025-05-15 09:29:23
+124,17,2,The characters felt real and relatable.,2023-10-26 09:29:23
+125,17,4,"Overrated in my opinion, but still a decent read.",2024-02-21 09:29:23
+126,17,3,"A bit slow at the beginning, but it builds into something incredible.",2025-03-14 09:29:23
+127,17,5,The plot twists were amazing! I didn’t see them coming.,2025-03-10 09:29:23
+128,17,2,The plot twists were amazing! I didn’t see them coming.,2024-04-11 09:29:23
+129,18,1,Beautifully written with deep emotional impact.,2024-05-14 09:29:23
+130,18,5,An unforgettable journey through human emotions and moral choices.,2025-01-04 09:29:23
+131,18,1,"Dark, intense, and thought-provoking. Brilliant work.",2023-08-14 09:29:23
+132,18,3,The characters felt real and relatable.,2023-07-19 09:29:23
+133,18,4,I couldn't put this book down. Every chapter kept me hooked.,2025-03-01 09:29:23
+134,18,1,The characters felt real and relatable.,2023-06-05 09:29:23
+135,18,5,Beautifully written with deep emotional impact.,2024-04-12 09:29:23
+136,18,2,Emotionally powerful and beautifully structured.,2024-06-26 09:29:23
+137,18,3,Beautifully written with deep emotional impact.,2025-08-28 09:29:23
+138,18,1,Beautifully written with deep emotional impact.,2023-12-11 09:29:23
+139,18,1,"Not my cup of tea, but I can see why others enjoy it.",2025-03-29 09:29:23
+140,18,2,A must-read for fans of good storytelling.,2025-02-27 09:29:23
+141,19,2,The characters felt real and relatable.,2024-02-03 09:29:23
+142,19,5,An unforgettable journey through human emotions and moral choices.,2025-01-07 09:29:23
+143,19,2,An absolute masterpiece! The writing and storytelling are phenomenal.,2023-07-01 09:29:23
+144,19,2,An absolute masterpiece! The writing and storytelling are phenomenal.,2025-04-26 09:29:23
+145,19,1,The plot twists were amazing! I didn’t see them coming.,2023-08-15 09:29:23
+146,19,4,This book changed the way I see the world.,2024-02-04 09:29:23
+147,19,2,"Dark, intense, and thought-provoking. Brilliant work.",2023-06-04 09:29:23
+148,19,3,I couldn't put this book down. Every chapter kept me hooked.,2024-09-18 09:29:23
+149,20,3,"Some parts dragged a bit, but overall, it’s worth it.",2024-08-12 09:29:23
+150,20,5,Emotionally powerful and beautifully structured.,2025-07-29 09:29:23
+151,20,1,An unforgettable journey through human emotions and moral choices.,2024-02-24 09:29:23
+152,20,5,Emotionally powerful and beautifully structured.,2024-08-11 09:29:23
+153,20,3,"Dark, intense, and thought-provoking. Brilliant work.",2024-06-09 09:29:23
+154,20,3,"Overrated in my opinion, but still a decent read.",2025-07-29 09:29:23
+155,21,4,"Dark, intense, and thought-provoking. Brilliant work.",2023-08-10 09:29:23
+156,21,3,An unforgettable journey through human emotions and moral choices.,2024-04-11 09:29:23
+157,21,3,"A bit slow at the beginning, but it builds into something incredible.",2023-08-08 09:29:23
+158,21,1,"Dark, intense, and thought-provoking. Brilliant work.",2025-09-10 09:29:23
+159,21,2,"Overrated in my opinion, but still a decent read.",2025-09-20 09:29:23
+160,21,2,A classic everyone should read at least once in their life.,2025-10-02 09:29:23
+161,22,3,An unforgettable journey through human emotions and moral choices.,2024-02-10 09:29:23
+162,22,5,"A bit slow at the beginning, but it builds into something incredible.",2023-05-13 09:29:23
+163,22,3,"Some parts dragged a bit, but overall, it’s worth it.",2024-11-11 09:29:23
+164,22,2,A classic everyone should read at least once in their life.,2023-11-02 09:29:23
+165,22,4,Beautifully written with deep emotional impact.,2024-09-04 09:29:23
+166,22,2,Emotionally powerful and beautifully structured.,2025-07-18 09:29:23
+167,22,5,Emotionally powerful and beautifully structured.,2023-08-13 09:29:23
+168,22,5,"A bit slow at the beginning, but it builds into something incredible.",2023-10-23 09:29:23
+169,23,4,Emotionally powerful and beautifully structured.,2025-09-08 09:29:23
+170,23,5,Emotionally powerful and beautifully structured.,2024-03-09 09:29:23
+171,23,3,The characters felt real and relatable.,2023-09-19 09:29:23
+172,23,5,An absolute masterpiece! The writing and storytelling are phenomenal.,2023-09-12 09:29:23
+173,23,5,A must-read for fans of good storytelling.,2024-11-27 09:29:23
+174,23,4,"Not my cup of tea, but I can see why others enjoy it.",2024-05-08 09:29:23
+175,23,3,This book changed the way I see the world.,2025-10-01 09:29:23
+176,23,2,This book changed the way I see the world.,2023-06-23 09:29:23
+177,24,2,Emotionally powerful and beautifully structured.,2025-01-20 09:29:23
+178,24,3,The characters felt real and relatable.,2024-08-21 09:29:23
+179,24,1,"Dark, intense, and thought-provoking. Brilliant work.",2025-03-19 09:29:23
+180,24,3,A must-read for fans of good storytelling.,2024-10-07 09:29:23
+181,24,2,"Some parts dragged a bit, but overall, it’s worth it.",2025-09-05 09:29:23
+182,24,3,An unforgettable journey through human emotions and moral choices.,2023-12-17 09:29:23
+183,24,2,Beautifully written with deep emotional impact.,2025-04-20 09:29:23
+184,24,4,"Dark, intense, and thought-provoking. Brilliant work.",2024-02-04 09:29:23
+185,24,4,This book changed the way I see the world.,2024-08-18 09:29:23
+186,24,3,A classic everyone should read at least once in their life.,2024-12-25 09:29:23
+187,24,4,"Not my cup of tea, but I can see why others enjoy it.",2024-04-03 09:29:23
+188,24,3,I couldn't put this book down. Every chapter kept me hooked.,2023-05-17 09:29:23
+189,25,5,A must-read for fans of good storytelling.,2025-02-03 09:29:23
+190,25,4,This book changed the way I see the world.,2023-09-03 09:29:23
+191,25,2,I couldn't put this book down. Every chapter kept me hooked.,2025-08-18 09:29:23
+192,25,2,The characters felt real and relatable.,2025-07-01 09:29:23
+193,25,2,Emotionally powerful and beautifully structured.,2024-10-20 09:29:23
+194,25,5,The plot twists were amazing! I didn’t see them coming.,2024-08-28 09:29:23
+195,26,4,Emotionally powerful and beautifully structured.,2025-03-28 09:29:23
+196,26,5,Emotionally powerful and beautifully structured.,2024-02-17 09:29:23
+197,26,1,Emotionally powerful and beautifully structured.,2023-07-04 09:29:23
+198,26,5,"Not my cup of tea, but I can see why others enjoy it.",2024-12-16 09:29:23
+199,26,3,The characters felt real and relatable.,2025-10-05 09:29:23
+200,26,4,I couldn't put this book down. Every chapter kept me hooked.,2024-12-28 09:29:23
+201,26,4,The characters felt real and relatable.,2025-08-27 09:29:23
+202,26,4,"A bit slow at the beginning, but it builds into something incredible.",2025-09-10 09:29:23
+203,26,2,"Overrated in my opinion, but still a decent read.",2025-07-25 09:29:23
+204,27,1,An unforgettable journey through human emotions and moral choices.,2025-01-23 09:29:23
+205,27,2,An absolute masterpiece! The writing and storytelling are phenomenal.,2024-09-06 09:29:23
+206,27,3,An unforgettable journey through human emotions and moral choices.,2024-05-20 09:29:23
+207,27,5,The characters felt real and relatable.,2024-07-11 09:29:23
+208,27,3,"Dark, intense, and thought-provoking. Brilliant work.",2024-12-04 09:29:23
+209,27,4,An absolute masterpiece! The writing and storytelling are phenomenal.,2024-12-29 09:29:23
+210,27,3,"Not my cup of tea, but I can see why others enjoy it.",2023-06-12 09:29:23
+211,27,4,This book changed the way I see the world.,2023-07-10 09:29:23
+212,27,1,The plot twists were amazing! I didn’t see them coming.,2023-06-10 09:29:23
+213,27,4,An absolute masterpiece! The writing and storytelling are phenomenal.,2025-01-02 09:29:23
+214,28,4,A classic everyone should read at least once in their life.,2023-10-16 09:29:23
+215,28,1,The plot twists were amazing! I didn’t see them coming.,2023-07-23 09:29:23
+216,28,3,"Dark, intense, and thought-provoking. Brilliant work.",2025-07-06 09:29:23
+217,28,2,"Some parts dragged a bit, but overall, it’s worth it.",2024-12-19 09:29:23
+218,28,5,The plot twists were amazing! I didn’t see them coming.,2023-07-08 09:29:23
+219,28,5,"Dark, intense, and thought-provoking. Brilliant work.",2023-10-06 09:29:23
+220,28,2,An absolute masterpiece! The writing and storytelling are phenomenal.,2023-08-28 09:29:23
+221,29,4,Emotionally powerful and beautifully structured.,2025-08-15 09:29:23
+222,29,1,"A bit slow at the beginning, but it builds into something incredible.",2024-03-09 09:29:23
+223,29,4,I couldn't put this book down. Every chapter kept me hooked.,2025-06-04 09:29:23
+224,29,3,"A bit slow at the beginning, but it builds into something incredible.",2024-08-26 09:29:23
+225,29,5,"Some parts dragged a bit, but overall, it’s worth it.",2025-04-23 09:29:23
+226,29,2,"A bit slow at the beginning, but it builds into something incredible.",2025-09-27 09:29:23
+227,29,3,The plot twists were amazing! I didn’t see them coming.,2023-07-08 09:29:23
+228,30,5,"Overrated in my opinion, but still a decent read.",2023-10-27 09:29:23
+229,30,1,Beautifully written with deep emotional impact.,2025-04-17 09:29:23
+230,30,5,"A bit slow at the beginning, but it builds into something incredible.",2025-05-10 09:29:23
+231,30,4,A must-read for fans of good storytelling.,2025-10-04 09:29:23
+232,30,1,The characters felt real and relatable.,2024-02-10 09:29:23
+233,30,1,This book changed the way I see the world.,2025-05-17 09:29:23
+234,30,3,A classic everyone should read at least once in their life.,2024-10-23 09:29:23
+235,30,4,An absolute masterpiece! The writing and storytelling are phenomenal.,2024-09-20 09:29:23
+236,30,2,An absolute masterpiece! The writing and storytelling are phenomenal.,2023-06-18 09:29:23
+237,30,1,I couldn't put this book down. Every chapter kept me hooked.,2025-06-30 09:29:23
+238,30,2,Emotionally powerful and beautifully structured.,2025-01-21 09:29:23
+239,31,3,This book changed the way I see the world.,2023-10-01 09:29:23
+240,31,3,"Overrated in my opinion, but still a decent read.",2025-05-03 09:29:23
+241,31,3,I couldn't put this book down. Every chapter kept me hooked.,2025-08-03 09:29:23
+242,31,5,This book changed the way I see the world.,2024-06-20 09:29:23
+243,31,2,Emotionally powerful and beautifully structured.,2023-10-06 09:29:23
+244,31,5,"Dark, intense, and thought-provoking. Brilliant work.",2025-06-09 09:29:23
+245,31,3,A classic everyone should read at least once in their life.,2024-10-25 09:29:23
+246,31,3,The characters felt real and relatable.,2023-11-21 09:29:23
+247,31,4,"Overrated in my opinion, but still a decent read.",2025-09-24 09:29:23
+248,31,4,Beautifully written with deep emotional impact.,2025-06-04 09:29:23
+249,32,1,An unforgettable journey through human emotions and moral choices.,2024-07-17 09:29:23
+250,32,4,"Not my cup of tea, but I can see why others enjoy it.",2025-03-05 09:29:23
+251,32,3,A classic everyone should read at least once in their life.,2023-08-28 09:29:23
+252,32,2,"Overrated in my opinion, but still a decent read.",2024-01-24 09:29:23
+253,32,4,"Some parts dragged a bit, but overall, it’s worth it.",2023-10-26 09:29:23
+254,32,2,An absolute masterpiece! The writing and storytelling are phenomenal.,2024-12-25 09:29:23
+255,32,5,I couldn't put this book down. Every chapter kept me hooked.,2024-05-21 09:29:23
+256,33,4,"Dark, intense, and thought-provoking. Brilliant work.",2023-05-20 09:29:23
+257,33,3,"Not my cup of tea, but I can see why others enjoy it.",2024-09-17 09:29:23
+258,33,2,"Some parts dragged a bit, but overall, it’s worth it.",2024-04-03 09:29:23
+259,33,3,A must-read for fans of good storytelling.,2024-10-20 09:29:23
+260,33,4,Emotionally powerful and beautifully structured.,2023-10-20 09:29:23
+261,33,5,"Overrated in my opinion, but still a decent read.",2025-08-24 09:29:23
+262,34,4,"A bit slow at the beginning, but it builds into something incredible.",2023-05-20 09:29:23
+263,34,1,I couldn't put this book down. Every chapter kept me hooked.,2023-06-06 09:29:23
+264,34,3,"Some parts dragged a bit, but overall, it’s worth it.",2025-07-13 09:29:23
+265,34,3,Emotionally powerful and beautifully structured.,2025-05-09 09:29:23
+266,34,3,The characters felt real and relatable.,2024-12-22 09:29:23
+267,34,4,Beautifully written with deep emotional impact.,2025-05-09 09:29:23
+268,34,3,"Dark, intense, and thought-provoking. Brilliant work.",2024-06-04 09:29:23
+269,35,2,The characters felt real and relatable.,2025-07-30 09:29:23
+270,35,4,An unforgettable journey through human emotions and moral choices.,2024-12-03 09:29:23
+271,35,3,Beautifully written with deep emotional impact.,2025-07-14 09:29:23
+272,35,5,The characters felt real and relatable.,2023-08-24 09:29:23
+273,35,2,"Dark, intense, and thought-provoking. Brilliant work.",2025-08-03 09:29:23
+274,35,2,This book changed the way I see the world.,2024-06-25 09:29:23
+275,35,1,A classic everyone should read at least once in their life.,2025-02-10 09:29:23
+276,35,2,Beautifully written with deep emotional impact.,2023-05-26 09:29:23
+277,35,4,This book changed the way I see the world.,2024-06-23 09:29:23
+278,35,2,Emotionally powerful and beautifully structured.,2025-10-11 09:29:23
+279,36,2,A classic everyone should read at least once in their life.,2024-03-01 09:29:23
+280,36,4,Beautifully written with deep emotional impact.,2024-10-31 09:29:23
+281,36,2,An unforgettable journey through human emotions and moral choices.,2024-09-13 09:29:23
+282,36,3,A must-read for fans of good storytelling.,2024-07-07 09:29:23
+283,36,4,"Overrated in my opinion, but still a decent read.",2024-11-28 09:29:23
+284,36,1,"Some parts dragged a bit, but overall, it’s worth it.",2025-02-05 09:29:23
+285,36,1,An unforgettable journey through human emotions and moral choices.,2023-11-06 09:29:23
+286,36,3,The characters felt real and relatable.,2024-10-07 09:29:23
+287,37,1,"Overrated in my opinion, but still a decent read.",2023-05-16 09:29:23
+288,37,2,A must-read for fans of good storytelling.,2023-08-01 09:29:23
+289,37,1,"A bit slow at the beginning, but it builds into something incredible.",2025-08-07 09:29:23
+290,37,1,Emotionally powerful and beautifully structured.,2023-05-31 09:29:23
+291,37,1,A must-read for fans of good storytelling.,2024-02-16 09:29:23
+292,37,5,The characters felt real and relatable.,2024-10-08 09:29:23
+293,37,1,"Some parts dragged a bit, but overall, it’s worth it.",2023-05-29 09:29:23
+294,37,5,"A bit slow at the beginning, but it builds into something incredible.",2024-11-30 09:29:23
+295,37,1,A must-read for fans of good storytelling.,2025-01-19 09:29:23
+296,38,3,Emotionally powerful and beautifully structured.,2024-04-05 09:29:23
+297,38,1,A classic everyone should read at least once in their life.,2023-05-11 09:29:23
+298,38,3,An absolute masterpiece! The writing and storytelling are phenomenal.,2025-01-26 09:29:23
+299,38,3,The plot twists were amazing! I didn’t see them coming.,2023-12-19 09:29:23
+300,38,3,The plot twists were amazing! I didn’t see them coming.,2023-10-13 09:29:23
+301,38,4,"Dark, intense, and thought-provoking. Brilliant work.",2023-06-12 09:29:23
+302,39,3,An unforgettable journey through human emotions and moral choices.,2024-06-23 09:29:23
+303,39,2,The characters felt real and relatable.,2025-03-12 09:29:23
+304,39,5,The plot twists were amazing! I didn’t see them coming.,2024-02-11 09:29:23
+305,39,3,"A bit slow at the beginning, but it builds into something incredible.",2024-06-12 09:29:23
+306,39,2,A must-read for fans of good storytelling.,2024-02-17 09:29:23
+307,40,3,"Some parts dragged a bit, but overall, it’s worth it.",2023-11-17 09:29:23
+308,40,4,"A bit slow at the beginning, but it builds into something incredible.",2024-04-10 09:29:23
+309,40,3,"Overrated in my opinion, but still a decent read.",2024-09-29 09:29:23
+310,40,3,The characters felt real and relatable.,2025-01-05 09:29:23
+311,40,2,The plot twists were amazing! I didn’t see them coming.,2024-04-17 09:29:23
+312,40,1,I couldn't put this book down. Every chapter kept me hooked.,2025-09-16 09:29:23
+313,40,3,Beautifully written with deep emotional impact.,2024-11-28 09:29:23
+314,41,1,"Overrated in my opinion, but still a decent read.",2024-05-30 09:29:23
+315,41,1,Beautifully written with deep emotional impact.,2024-02-23 09:29:23
+316,41,4,"A bit slow at the beginning, but it builds into something incredible.",2023-10-20 09:29:23
+317,41,1,"A bit slow at the beginning, but it builds into something incredible.",2025-08-06 09:29:23
+318,41,1,"Dark, intense, and thought-provoking. Brilliant work.",2024-06-09 09:29:23
+319,42,2,This book changed the way I see the world.,2025-05-22 09:29:23
+320,42,3,A must-read for fans of good storytelling.,2024-01-24 09:29:23
+321,42,3,I couldn't put this book down. Every chapter kept me hooked.,2025-03-20 09:29:23
+322,42,5,A must-read for fans of good storytelling.,2025-04-10 09:29:23
+323,42,4,I couldn't put this book down. Every chapter kept me hooked.,2024-05-01 09:29:23
+324,42,4,An absolute masterpiece! The writing and storytelling are phenomenal.,2024-12-04 09:29:23
+325,42,3,An absolute masterpiece! The writing and storytelling are phenomenal.,2023-08-07 09:29:23
+326,43,3,I couldn't put this book down. Every chapter kept me hooked.,2025-05-29 09:29:23
+327,43,4,Beautifully written with deep emotional impact.,2023-09-21 09:29:23
+328,43,4,"Overrated in my opinion, but still a decent read.",2024-06-12 09:29:23
+329,43,1,A must-read for fans of good storytelling.,2024-09-24 09:29:23
+330,43,4,I couldn't put this book down. Every chapter kept me hooked.,2025-08-14 09:29:23
+331,43,5,"Dark, intense, and thought-provoking. Brilliant work.",2025-02-01 09:29:23
+332,44,4,"Not my cup of tea, but I can see why others enjoy it.",2024-05-20 09:29:23
+333,44,4,"Dark, intense, and thought-provoking. Brilliant work.",2024-07-26 09:29:23
+334,44,3,The characters felt real and relatable.,2024-03-12 09:29:23
+335,44,1,An unforgettable journey through human emotions and moral choices.,2024-10-05 09:29:23
+336,44,2,"Some parts dragged a bit, but overall, it’s worth it.",2023-11-25 09:29:23
+337,44,2,I couldn't put this book down. Every chapter kept me hooked.,2023-05-25 09:29:23
+338,44,5,A classic everyone should read at least once in their life.,2025-07-26 09:29:23
+339,45,3,An unforgettable journey through human emotions and moral choices.,2024-12-04 09:29:23
+340,45,5,The plot twists were amazing! I didn’t see them coming.,2023-10-06 09:29:23
+341,45,2,"Overrated in my opinion, but still a decent read.",2024-06-27 09:29:23
+342,45,2,An unforgettable journey through human emotions and moral choices.,2024-04-05 09:29:23
+343,45,3,"A bit slow at the beginning, but it builds into something incredible.",2025-06-15 09:29:23
+344,45,5,"A bit slow at the beginning, but it builds into something incredible.",2025-09-03 09:29:23
+345,45,1,An absolute masterpiece! The writing and storytelling are phenomenal.,2024-09-11 09:29:23
+346,45,2,I couldn't put this book down. Every chapter kept me hooked.,2025-03-16 09:29:23
+347,45,1,A must-read for fans of good storytelling.,2024-06-22 09:29:23
+348,45,4,"A bit slow at the beginning, but it builds into something incredible.",2025-06-17 09:29:23
+349,46,4,A classic everyone should read at least once in their life.,2025-01-25 09:29:23
+350,46,1,The characters felt real and relatable.,2025-03-08 09:29:23
+351,46,2,A must-read for fans of good storytelling.,2024-02-24 09:29:23
+352,46,3,A must-read for fans of good storytelling.,2023-12-10 09:29:23
+353,46,5,"Some parts dragged a bit, but overall, it’s worth it.",2024-06-15 09:29:23
+354,46,3,This book changed the way I see the world.,2023-10-22 09:29:23
+355,46,4,An absolute masterpiece! The writing and storytelling are phenomenal.,2024-12-12 09:29:23
+356,47,2,Emotionally powerful and beautifully structured.,2025-03-01 09:29:23
+357,47,3,The characters felt real and relatable.,2024-08-16 09:29:23
+358,47,4,An absolute masterpiece! The writing and storytelling are phenomenal.,2025-04-21 09:29:23
+359,47,4,A must-read for fans of good storytelling.,2025-04-04 09:29:23
+360,47,3,Beautifully written with deep emotional impact.,2025-10-01 09:29:23
+361,47,4,"Overrated in my opinion, but still a decent read.",2024-11-26 09:29:23
+362,47,2,Emotionally powerful and beautifully structured.,2024-12-22 09:29:23
+363,47,5,"Dark, intense, and thought-provoking. Brilliant work.",2024-02-29 09:29:23
+364,47,1,"A bit slow at the beginning, but it builds into something incredible.",2024-12-25 09:29:23
+365,48,5,Beautifully written with deep emotional impact.,2025-02-14 09:29:23
+366,48,1,Beautifully written with deep emotional impact.,2025-05-16 09:29:23
+367,48,5,I couldn't put this book down. Every chapter kept me hooked.,2023-06-10 09:29:23
+368,48,5,"Not my cup of tea, but I can see why others enjoy it.",2023-10-22 09:29:23
+369,48,4,Emotionally powerful and beautifully structured.,2025-02-09 09:29:23
+370,48,1,An unforgettable journey through human emotions and moral choices.,2024-10-26 09:29:23
+371,48,3,This book changed the way I see the world.,2024-03-26 09:29:23
+372,48,2,This book changed the way I see the world.,2025-08-14 09:29:23
+373,48,5,An absolute masterpiece! The writing and storytelling are phenomenal.,2025-10-13 09:29:23
+374,48,2,"Some parts dragged a bit, but overall, it’s worth it.",2025-08-31 09:29:23
+375,48,2,"Dark, intense, and thought-provoking. Brilliant work.",2025-02-26 09:29:23
+376,49,4,An absolute masterpiece! The writing and storytelling are phenomenal.,2023-06-28 09:29:23
+377,49,4,This book changed the way I see the world.,2024-04-07 09:29:23
+378,49,5,"Some parts dragged a bit, but overall, it’s worth it.",2024-04-27 09:29:23
+379,49,1,A classic everyone should read at least once in their life.,2023-09-24 09:29:23
+380,49,3,"A bit slow at the beginning, but it builds into something incredible.",2025-06-26 09:29:23
+381,49,5,The plot twists were amazing! I didn’t see them coming.,2023-11-29 09:29:23
+382,50,3,"Overrated in my opinion, but still a decent read.",2025-08-07 09:29:23
+383,50,4,A must-read for fans of good storytelling.,2024-02-24 09:29:23
+384,50,2,"Overrated in my opinion, but still a decent read.",2024-04-01 09:29:23
+385,50,2,An unforgettable journey through human emotions and moral choices.,2023-12-20 09:29:23
+386,50,5,This book changed the way I see the world.,2025-05-21 09:29:23
