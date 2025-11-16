@@ -15,13 +15,18 @@
    cd books_app
    ```
 
-2. Создать виртуальное окружение и активировать его:
-
+2. Создать виртуальное окружение и активировать его.\
+   *Linux/macOS/WSL:*
    ```bash
    python3 -m venv .venv
    source .venv/bin/activate
    ```
-
+   
+   *Windows (PowerShell):*
+   ```bash
+   python -m venv .venv
+   .\.venv\Scripts\Activate.ps1
+   ```
 3. Установить зависимости:
 
    ```bash
@@ -35,7 +40,6 @@
    DB_USER=<your_mysql_user>
    DB_PASSWORD=<your_mysql_password>
    DB_NAME=<your_mysql_database>
-   SSL=<path_to_ssl_certificate>
    BOT_TOKEN=<your_telegram_bot_token>
    ```
    Как получить токен бота:
@@ -57,7 +61,7 @@
 
 ---
 
-### ☁️ Развёртывание в облаке (Yandex Cloud)
+### ☁️ Развёртывание в облаке (Yandex Cloud) на виртуальной машине Linux
 
 1. Подключиться к виртуальной машине:
 
