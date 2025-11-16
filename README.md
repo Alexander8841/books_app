@@ -11,7 +11,7 @@
 1. Клонировать репозиторий:
 
    ```bash
-   git clone https://github.com/<your_username>/books_app.git
+   git clone https://github.com/Alexander8841/books_app.git
    cd books_app
    ```
 
